@@ -1,5 +1,13 @@
-<h3>Responsive Html Css Grid Admin Dashboard</h3>
-<p>Youtube Channel https://www.youtube.com/channel/UC8c4OFeOvNGmUlHLfQb9TVg</p>
-<hr>
+# SAMCO - Business Landing Page - [Cсылка на ДЕМО](https://dashboard-css-grid.netlify.app/)
 
-<img src="assets/screenshot.PNG" />
+## Полностью адаптивный
+
+## Используемые технологии:
+
+1. HTML/CSS
+
+- БЭМ Методология
+- SMACSS (Scalable and Modular Architecture for CSS)
+- FLEXBOX/CSS Grid
+
+![](screenshot.jpg)
