@@ -1,4 +1,4 @@
-# SAMCO - Business Landing Page - [Cсылка на ДЕМО](https://dashboard-css-grid.netlify.app/)
+# Dashboard - [Cсылка на ДЕМО](https://dashboard-css-grid.netlify.app/)
 
 ## Полностью адаптивный
 
