@@ -10,4 +10,4 @@
 - SMACSS (Scalable and Modular Architecture for CSS)
 - FLEXBOX/CSS Grid
 
-![](screenshot.jpg)
+![](screenshot.png)
